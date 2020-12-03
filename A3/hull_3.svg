@@ -1,0 +1,67 @@
+<?xml version="1.0" standalone="no" ?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+
+<svg width="800px" height="800px" xmlns="http://www.w3.org/2000/svg" version="1.1">
+<circle cx="80" cy="760" r="3" fill="black"/>
+<circle cx="40" cy="740" r="3" fill="black"/>
+<circle cx="20" cy="640" r="3" fill="black"/>
+<circle cx="40" cy="260" r="3" fill="black"/>
+<circle cx="60" cy="20" r="3" fill="black"/>
+<circle cx="340" cy="20" r="3" fill="black"/>
+<circle cx="360" cy="640" r="3" fill="black"/>
+<polygon points="80,760,40,740,20,640,40,260,60,20,340,20,360,640" style="fill:black;fill-opacity:0.0;stroke:red;stroke-width:1"/><circle cx="520" cy="780" r="3" fill="black"/>
+<circle cx="420" cy="760" r="3" fill="black"/>
+<circle cx="380" cy="400" r="3" fill="black"/>
+<circle cx="380" cy="160" r="3" fill="black"/>
+<circle cx="400" cy="20" r="3" fill="black"/>
+<circle cx="760" cy="80" r="3" fill="black"/>
+<circle cx="800" cy="300" r="3" fill="black"/>
+<circle cx="740" cy="740" r="3" fill="black"/>
+<polygon points="520,780,420,760,380,400,380,160,400,20,760,80,800,300,740,740" style="fill:black;fill-opacity:0.0;stroke:blue;stroke-width:1"/><circle cx="480" cy="720" r="3" fill="black"/>
+<circle cx="420" cy="400" r="3" fill="black"/>
+<circle cx="400" cy="220" r="3" fill="black"/>
+<circle cx="480" cy="120" r="3" fill="black"/>
+<circle cx="580" cy="220" r="3" fill="black"/>
+<circle cx="600" cy="420" r="3" fill="black"/>
+<circle cx="560" cy="700" r="3" fill="black"/>
+<circle cx="520" cy="760" r="3" fill="black"/>
+<polygon points="480,720,420,400,400,220,480,120,580,220,600,420,560,700,520,760" style="fill:black;fill-opacity:0.0;stroke:red;stroke-width:1"/><circle cx="660" cy="660" r="3" fill="black"/>
+<circle cx="600" cy="540" r="3" fill="black"/>
+<circle cx="620" cy="420" r="3" fill="black"/>
+<circle cx="660" cy="200" r="3" fill="black"/>
+<circle cx="680" cy="180" r="3" fill="black"/>
+<circle cx="760" cy="120" r="3" fill="black"/>
+<circle cx="780" cy="200" r="3" fill="black"/>
+<circle cx="740" cy="660" r="3" fill="black"/>
+<polygon points="660,660,600,540,620,420,660,200,680,180,760,120,780,200,740,660" style="fill:black;fill-opacity:0.0;stroke:blue;stroke-width:1"/><circle cx="700" cy="440" r="3" fill="black"/>
+<circle cx="660" cy="320" r="3" fill="black"/>
+<circle cx="700" cy="200" r="3" fill="black"/>
+<polygon points="700,440,660,320,700,200" style="fill:black;fill-opacity:0.0;stroke:red;stroke-width:1"/><circle cx="740" cy="400" r="3" fill="black"/>
+<circle cx="700" cy="520" r="3" fill="black"/>
+<circle cx="720" cy="200" r="3" fill="black"/>
+<polygon points="740,400,700,520,720,200" style="fill:black;fill-opacity:0.0;stroke:blue;stroke-width:1"/><circle cx="480" cy="580" r="3" fill="black" />
+<circle cx="500" cy="160" r="3" fill="black" />
+<line id="line" x1="480" y1="580" x2="500" y2="160" stroke-width="1" stroke="red"/><circle cx="520" cy="600" r="3" fill="black"/>
+<circle cx="500" cy="520" r="3" fill="black"/>
+<circle cx="580" cy="480" r="3" fill="black"/>
+<polygon points="520,600,500,520,580,480" style="fill:black;fill-opacity:0.0;stroke:blue;stroke-width:1"/><circle cx="100" cy="620" r="3" fill="black"/>
+<circle cx="60" cy="240" r="3" fill="black"/>
+<circle cx="140" cy="140" r="3" fill="black"/>
+<circle cx="160" cy="120" r="3" fill="black"/>
+<circle cx="180" cy="160" r="3" fill="black"/>
+<circle cx="180" cy="220" r="3" fill="black"/>
+<circle cx="160" cy="720" r="3" fill="black"/>
+<circle cx="140" cy="720" r="3" fill="black"/>
+<polygon points="100,620,60,240,140,140,160,120,180,160,180,220,160,720,140,720" style="fill:black;fill-opacity:0.0;stroke:red;stroke-width:1"/><circle cx="200" cy="640" r="3" fill="black"/>
+<circle cx="180" cy="500" r="3" fill="black"/>
+<circle cx="180" cy="380" r="3" fill="black"/>
+<circle cx="200" cy="180" r="3" fill="black"/>
+<circle cx="220" cy="60" r="3" fill="black"/>
+<circle cx="240" cy="100" r="3" fill="black"/>
+<circle cx="340" cy="360" r="3" fill="black"/>
+<circle cx="240" cy="680" r="3" fill="black"/>
+<polygon points="200,640,180,500,180,380,200,180,220,60,240,100,340,360,240,680" style="fill:black;fill-opacity:0.0;stroke:blue;stroke-width:1"/><circle cx="220" cy="220" r="3" fill="black" />
+<circle cx="220" cy="300" r="3" fill="black" />
+<line id="line" x1="220" y1="220" x2="220" y2="300" stroke-width="1" stroke="red"/><circle cx="220" cy="660" r="3" fill="black" />
+<circle cx="320" cy="340" r="3" fill="black" />
+<line id="line" x1="220" y1="660" x2="320" y2="340" stroke-width="1" stroke="blue"/></svg>

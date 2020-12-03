@@ -1,0 +1,11 @@
+<?xml version="1.0" standalone="no" ?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+
+<svg width="800px" height="800px" xmlns="http://www.w3.org/2000/svg" version="1.1">
+<circle cx="320" cy="780" r="3" fill="black"/>
+<circle cx="20" cy="600" r="3" fill="black"/>
+<circle cx="460" cy="300" r="3" fill="black"/>
+<polygon points="320,780,20,600,460,300" style="fill:black;fill-opacity:0.0;stroke:red;stroke-width:1"/><circle cx="720" cy="700" r="3" fill="black"/>
+<circle cx="740" cy="20" r="3" fill="black"/>
+<circle cx="760" cy="120" r="3" fill="black"/>
+<polygon points="720,700,740,20,760,120" style="fill:black;fill-opacity:0.0;stroke:blue;stroke-width:1"/></svg>
