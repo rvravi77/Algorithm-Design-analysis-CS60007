@@ -1,1 +1,1 @@
-cs60007-Algorithm-Design-analysis A3 code(problem no.1) of  IITKGP Mtech 1st sem (AUTUMN 2020)
+Code of Assignment-3 for Algorithm-Design-analysis(CS60007) subject taught at ITKGP Mtech 1st sem (AUTUMN 2020)
