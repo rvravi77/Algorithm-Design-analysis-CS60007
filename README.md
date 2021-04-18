@@ -13,4 +13,4 @@ Problem statement :
     Save the final result as an svg file named hull.svg in which all n points are colored black and hull edges colored red / blue.
     
  Example  : 
- ![alt text](https://github.com/rvravi77/Algorithm-Design-analysis-CS60007/blob/master/A3/SVG.png?raw=true)
+ ![alt text](https://github.com/rvravi77/Convex-Hull-D-C/blob/master/SVG.png?raw=true)
